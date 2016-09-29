@@ -1,28 +1,19 @@
 #XAND0
 Made it for fun.X and 0
 
-#########################################
-
-
-#there are three modes
+#There are three modes
 1.pro
 2.ok
 3.noob
 
+#About game
 I have coded in such a way that winnig a game agnst a bot in noob mode is 95% , where as in ok mode is 30% and 0 % winning chance against a bot in pro mode.
-
-
-##########################################
-
 
 #technology
 -core java
 
 
-##########################################
-
-
-#there are 4 classes in the project.
+#There are 4 classes in the project.
 
 1.GameXandO the main class 
       It controls the flow of the game
