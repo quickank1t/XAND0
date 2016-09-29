@@ -4,7 +4,7 @@ Made it for fun.X and 0
 #########################################
 
 
-there are three modes
+#there are three modes
 1.pro
 2.ok
 3.noob
@@ -22,7 +22,7 @@ I have coded in such a way that winnig a game agnst a bot in noob mode is 95% , 
 ##########################################
 
 
-there are 4 classes in the project.
+#there are 4 classes in the project.
 
 1.GameXandO the main class 
       It controls the flow of the game
