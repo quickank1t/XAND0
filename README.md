@@ -1,17 +1,11 @@
 #XAND0
-Made it for fun.X and 0
-
-#There are three modes
-1.pro
-2.ok
-3.noob
+Game x and zero with artifial intellegence
 
 #About game
-I have coded in such a way that winnig a game agnst a bot in noob mode is 95% , where as in ok mode is 30% and 0 % winning chance against a bot in pro mode.
+I have coded in such a way that winnig a game aginst a bot in noob mode is > 90% , where as in ok mode is > 40% and 0 % winning chance against a bot in pro mode.
 
 #Technology
 -core java
-
 
 #There are 4 classes in the project.
 
@@ -27,6 +21,11 @@ I have coded in such a way that winnig a game agnst a bot in noob mode is 95% , 
 <strong>4.Game control</strong>
       After every move it checks that who is winnign.
       
+#There are three modes
+1.pro
+2.ok
+3.noob
+
 #Result
 
 Achived the desire result in 1 day
